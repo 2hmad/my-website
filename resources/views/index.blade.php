@@ -97,7 +97,7 @@
                                 </li>
                             </ul>
                             <a href="{{('Ahmed Mohamed Ibrahim.pdf')}}"
-                               class="btn btn-primary rounded-pill smooth-scroll">Download CV</a></div>
+                               class="btn btn-primary rounded-pill">Download CV</a></div>
                     </div>
                 </div>
                 <div class="brands-grid separator-border separator-border-light mt-5">
@@ -105,20 +105,20 @@
                         <div class="col-6 col-md-3">
                             <div class="featured-box text-center">
                                 <h4 class="text-12 text-white-50 mb-0"><span class="counter" data-from="0"
-                                                                             data-to="4">4</span>+</h4>
+                                                                             data-to="4">4</span></h4>
                                 <p class="text-light mb-0">Years Experiance</p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3">
                             <div class="featured-box text-center">
-                                <h4 class="text-12 text-white-50 mb-0"><span class="counter" data-from="0" data-to="20">20</span>+
+                                <h4 class="text-12 text-white-50 mb-0"><span class="counter" data-from="0" data-to="20">20</span>
                                 </h4>
                                 <p class="text-light mb-0">Happy Clients</p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3">
                             <div class="featured-box text-center">
-                                <h4 class="text-12 text-white-50 mb-0"><span class="counter" data-from="0" data-to="20">20</span>+
+                                <h4 class="text-12 text-white-50 mb-0"><span class="counter" data-from="0" data-to="20">20</span>
                                 </h4>
                                 <p class="text-light mb-0">Projects Done</p>
                             </div>
@@ -348,11 +348,10 @@
                             Alexandria Governorate.<br>
                             Egypt</p>
                         <p class="text-3 text-white-50 mb-1"><span class="text-primary text-4 mr-2"><i
-                                    class="fas fa-phone"></i></span>(+20)1275457924</p>
-                        <p class="text-3 text-white-50 mb-1"><span class="text-primary text-4 mr-2"><i
-                                    class="fas fa-fax"></i></span>(+20)1010142554</p>
+                                    class="fas fa-phone"></i></span><a href="tel:+201275457924">(+20)1275457924</a></p>
                         <p class="text-3 text-white-50 mb-4"><span class="text-primary text-4 mr-2"><i
-                                    class="fas fa-envelope"></i></span>eng.ahmedmohamed.2002@gmail.com</p>
+                                    class="fas fa-envelope"></i></span><a href="mailto:eng.ahmedmohamed.2002@gmail.com">eng.ahmedmohamed.2002@gmail.com</a>
+                        </p>
                         <h2 class="mb-3 text-5 text-white text-uppercase">Follow Me</h2>
                         <ul class="social-icons social-icons-muted ml-md-n2 justify-content-center justify-content-md-start">
                             <li class="social-icons-dribbble"><a data-toggle="tooltip"
@@ -417,16 +416,8 @@
         <div class="container px-lg-5">
             <div class="row">
                 <div class="col-lg-6 text-center text-lg-left">
-                    <p class="mb-3 mb-lg-0">Copyright © 2020 <a href="#">Ahmed Mohamed Ibrahim</a>. All Rights Reserved.
+                    <p class="mb-3 mb-lg-0">Copyright © 2021 <a href="#">Ahmed Mohamed Ibrahim</a>. All Rights Reserved.
                     </p>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="nav nav-separator nav-separator-light justify-content-center justify-content-lg-end">
-                        <li class="nav-item"><a class="nav-link" data-toggle="modal" data-target="#terms-policy"
-                                                href="#">Terms & Policy</a></li>
-                        <li class="nav-item"><a class="nav-link" data-toggle="modal" data-target="#disclaimer" href="#">Disclaimer</a>
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -441,103 +432,6 @@
 <a id="back-to-top" class="rounded-circle" data-toggle="tooltip" title="Back to Top" href="javascript:void(0)"><i
         class="fa fa-chevron-up"></i></a>
 
-<!-- Terms & Policy Modal
-================================== -->
-<div id="terms-policy" class="modal fade" role="dialog" aria-hidden="true">
-    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
-        <div class="modal-content bg-dark-2 text-light">
-            <div class="modal-header border-secondary">
-                <h5 class="modal-title text-white">Terms & Policy</h5>
-                <button type="button" class="close font-weight-400 text-white" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span></button>
-            </div>
-            <div class="modal-body p-4">
-                <p>Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                    leap into electronic typesetting, remaining essentially unchanged.</p>
-                <h3 class="text-white mb-3 mt-4 mt-4">Terms of Use</h3>
-                <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-                    essentially unchanged. Simply dummy text of the printing and typesetting industry.</p>
-                <h5 class="text-white text-4 mt-4">Part I – Information simone collects and controls</h5>
-                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer
-                    took a galley of type and scrambled it to make a type specimen book.</p>
-                <h5 class="text-white text-4 mt-4">Part II – Information that simone processes on your behalf</h5>
-                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer
-                    took a galley of type and scrambled it to make a type specimen book.</p>
-                <h5 class="text-white text-4 mt-4">Part III – General</h5>
-                <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-                    essentially unchanged. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <h3 class="text-white mb-3 mt-4">Privacy Policy</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                    and scrambled it to make a type specimen book. </p>
-                <ol class="line-height-5">
-                    <li>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.
-                    </li>
-                    <li>Quidam lisque persius interesset his et, Lisque persius interesset his et, in quot quidam
-                        persequeris vim, ad mea essent possim iriure.
-                    </li>
-                    <li>In quot quidam persequeris vim, ad mea essent possim iriure. Quidam lisque persius interesset
-                        his et.
-                    </li>
-                    <li>Quidam lisque persius interesset his et, Lisque persius interesset his et.</li>
-                    <li>Interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim, ad mea
-                        essent possim iriure.
-                    </li>
-                    <li>Persius interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim, ad
-                        mea essent possim iriure.
-                    </li>
-                    <li>Quot quidam persequeris vim Quidam lisque persius interesset his et, Lisque persius interesset
-                        his et, in quot quidam persequeris vim, ad mea essent possim iriure.
-                    </li>
-                </ol>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Terms & Policy Modal End -->
-
-<!-- Disclaimer Modal
-================================== -->
-<div id="disclaimer" class="modal fade" role="dialog" aria-hidden="true">
-    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
-        <div class="modal-content bg-dark-2 text-light">
-            <div class="modal-header border-secondary">
-                <h5 class="modal-title text-white">Copyright & Disclaimer</h5>
-                <button type="button" class="close font-weight-400 text-white" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span></button>
-            </div>
-            <div class="modal-body p-4">
-                <p>Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book. </p>
-                <ul class="line-height-5">
-                    <li>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.
-                    </li>
-                    <li>Quidam lisque persius interesset his et, Lisque persius interesset his et, in quot quidam
-                        persequeris vim, ad mea essent possim iriure.
-                    </li>
-                    <li>In quot quidam persequeris vim, ad mea essent possim iriure. Quidam lisque persius interesset
-                        his et.
-                    </li>
-                    <li>Quidam lisque persius interesset his et, Lisque persius interesset his et.</li>
-                    <li>Interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim, ad mea
-                        essent possim iriure.
-                    </li>
-                    <li>Persius interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim, ad
-                        mea essent possim iriure.
-                    </li>
-                    <li>Quot quidam persequeris vim Quidam lisque persius interesset his et, Lisque persius interesset
-                        his et, in quot quidam persequeris vim, ad mea essent possim iriure.
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Disclaimer Modal End -->
 
 @include('layout.scripts')
 <script>
