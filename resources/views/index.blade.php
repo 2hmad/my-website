@@ -375,8 +375,8 @@
                         </ul>
                     </div>
                     <div class="col-md-7 col-xl-8 order-0 order-md-0">
-                        <h2 class="mb-3 text-5 text-white text-uppercase text-center text-md-left">Send us a note</h2>
-                        <form id="contact-form" class="form-dark" action="php/mail.php" method="post">
+                        <h2 class="mb-3 text-5 text-white text-uppercase text-center text-md-left">Send a note</h2>
+                        <form id="contact-form" class="form-dark" action="{{ route('sendmail') }}" method="post">
                             <div class="row">
                                 <div class="col-xl-6">
                                     <div class="form-group">
@@ -391,7 +391,7 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <textarea name="form-message" class="form-control" rows="5" required
+                                <textarea name="message" class="form-control" rows="5" required
                                           placeholder="Tell us more about you need"></textarea>
                             </div>
                             <p class="text-center mt-4 mb-0">
